@@ -238,7 +238,7 @@ Results are saved to:
 - CSV format: `results/<task>_model_comparison.csv`
 - Text format: `results/<task>_detailed_report.txt`
 
-## 🛠️ Development
+##  Development
 
 ### Code Style
 
@@ -285,11 +285,11 @@ Contributions are welcome! Please:
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
+##  Authors
 
 - TikNep Development Team
 
