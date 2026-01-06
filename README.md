@@ -177,7 +177,7 @@ python copy_scraper_js.py
 python tiktok_comments_to_json.py
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Model Hyperparameters
 
